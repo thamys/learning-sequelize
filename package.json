@@ -1,0 +1,25 @@
+{
+  "name": "learning-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.28.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thamys/learning-sequelize.git"
+  },
+  "author": "Thamyres Guedes (https://github.com/thamys)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thamys/learning-sequelize/issues"
+  },
+  "homepage": "https://github.com/thamys/learning-sequelize#readme"
+}
